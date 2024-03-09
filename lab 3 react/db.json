@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": "021c",
+      "name": "testing 1",
+      "price": "2",
+      "quantity": "2",
+      "imgUrl": "https://source.unsplash.com/random"
+    }
+  ]
+}
